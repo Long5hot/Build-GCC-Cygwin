@@ -16,9 +16,8 @@
 
     - Verify Installation
         - Ensure the tools are available in your Cygwin terminal:
-        '''sh
-        gcc --version
-        '''
+####
+         gcc --version
 
 2. Download Required Source Code
     
